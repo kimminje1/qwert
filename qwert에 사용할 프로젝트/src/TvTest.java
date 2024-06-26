@@ -5,5 +5,12 @@ public class TvTest {
 			System.out.println("로컬저장소");
 			System.out.println("원격저장소");
 			
+			Tv t = new TV();
+			t.info();
+			
+			
+			
+			
+			
 		}
 }
